@@ -4,7 +4,7 @@ Ninrox- a free android game tribute towards Ninjump (android game) and Naruto (a
 
 It is an infinite looping game in which the main character has jump on either of the walls (present on
 both sides of the screen) to prevent obstacles or collect power-ups. High Score is calculated on bases of distance
-covered and storesd in a sqlite database
+covered and stored in a sqlite database.
 
 Target-
 -------
