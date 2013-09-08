@@ -26,20 +26,23 @@ Installation
 
 ### On Java IDE (Eclipse):
 
-Install the Android SDK from http://developer.android.com/sdk/index.html
+1.Install the Android SDK from http://developer.android.com/sdk/index.html
 
-Install ADT plugin by following the instructions below:
+2.Install ADT plugin by following the instructions below:
 
-* Start Eclipse, then select Help > Install New Software.
-* Click Add, in the top-right corner.
-* In the Add Repository dialog that appears, enter "ADT Plugin" for the Name and the following URL for the Location:
+  * Start Eclipse, then select Help > Install New Software.
+  * Click Add, in the top-right corner.
+  * In the Add Repository dialog that appears, enter "ADT Plugin" for the Name and the following URL for the Location:
 https://dl-ssl.google.com/android/eclipse/
-* Click OK.
-* If you have trouble acquiring the plugin, try using "http" in the Location URL, instead of "https" (https is preferred for security reasons).
-* In the Available Software dialog, select the checkbox next to Developer Tools and click Next.
-* In the next window, you'll see a list of the tools to be downloaded. Click Next.
-* Read and accept the license agreements, then click Finish.
-* If you get a security warning saying that the authenticity or validity of the software can't be established, click OK.
-* When the installation completes, restart Eclipse.
+  * Click OK.
+  * If you have trouble acquiring the plugin, try using "http" in the Location URL, instead of "https" (https is preferred for security reasons).
+  * In the Available Software dialog, select the checkbox next to Developer Tools and click Next.
+  * In the next window, you'll see a list of the tools to be downloaded. Click Next.
+  * Read and accept the license agreements, then click Finish.
+  * If you get a security warning saying that the authenticity or validity of the software can't be established, click OK.
+  * When the installation completes, restart Eclipse.
+  * For info more about its installation visit: http://developer.android.com/sdk/installing/installing-adt.html
 
-For info more about its installation visit: http://developer.android.com/sdk/installing/installing-adt.html
+3.Import the project as any other project.
+
+Hope you enjoy the game
